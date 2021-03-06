@@ -1,22 +1,24 @@
 1. install this package on your terminal/cmd/powershell
 
-```bash
+```zsh
 npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9`
 ```
 
 or if you use yarn
 
-```bash
+```zsh
 yarn add tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9`
 ```
 
 2. install craco
 
-```bash
+```zsh
 npm install @craco/craco
 ```
 
-```bash
+or if you use yarn
+
+```zsh
 yarn add @craco/craco
 ```
 
