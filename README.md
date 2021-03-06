@@ -1,3 +1,7 @@
+#  REACT-TAILWIND STARTER KIT
+
+## INSTALLATION
+
 1. install this package on your terminal/cmd/powershell
 
 ```zsh
@@ -69,4 +73,4 @@ purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
 
 8. create `.env` and put this line `SKIP_PREFLIGHT_CHECK=true`
 
-You're finished
+### that's all folks
